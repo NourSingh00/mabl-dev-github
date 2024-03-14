@@ -17,6 +17,6 @@ jobs:
           MABL_API_KEY: CgVgdWCvJ2nZdQOLUepd8Q
           #GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          application-id: RxrqQhWzr7UXuJRVyBHJkw-a
+          application-id: Ha5Lp3etF3Vn0Fe73x9iig-a
           environment-id: SI2InyIeK5Xnbm0a56vxsg-e
           plan-labels: githubhubgit
