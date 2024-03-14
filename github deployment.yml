@@ -14,7 +14,7 @@ jobs:
         uses: mablhq/github-run-tests-action@v1
         env:
           # Use a "CI/CD Integration" type of mabl API key
-          MABL_API_KEY: CgVgdWCvJ2nZdQOLUepd8Q
+          Github: CgVgdWCvJ2nZdQOLUepd8Q
           #GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           application-id: Ha5Lp3etF3Vn0Fe73x9iig-a
