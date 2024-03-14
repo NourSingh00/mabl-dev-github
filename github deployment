@@ -19,4 +19,4 @@ jobs:
         with:
           application-id: RxrqQhWzr7UXuJRVyBHJkw-a
           environment-id: SI2InyIeK5Xnbm0a56vxsg-e
-          plan-labels: github
+          plan-labels: githubhubgit
